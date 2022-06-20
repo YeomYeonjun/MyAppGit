@@ -37,7 +37,7 @@
 			   		<c:if test="${empty sessionScope.id}" var="isLogin">
 					    <li class="nav-item" ><a class="nav-link px-lg-3 py-3 py-lg-4"  href="<c:url value="/kosmo/Login.do"/>">로그인</a></li>
 					    <li class="nav-item"><a class="nav-link px-lg-3 py-3 py-lg-4" href="<c:url value="/kosmo/Join.do"/>">회원가입</a></li>
-						<li class="nav-item" ><a class="nav-link px-lg-3 py-3 py-lg-4 "  href="<c:url value="/kosmo/List.do"/>">게시판</a></li>
+						<li class="nav-item" ><a class="nav-link px-lg-3 py-3 py-lg-4 "  href="<c:url value="/kosmo/List.do"/>">안할거야</a></li>
 					</c:if>	
 					<c:if test="${not isLogin }">    
 						<li class="nav-item"><a class="nav-link px-lg-3 py-3 py-lg-4" >${sessionScope.id }</a></li>
