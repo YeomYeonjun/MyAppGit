@@ -11,6 +11,7 @@
                             <h1>Yeom YJ </h1>
                             <span class="subheading">Second Project</span>
                             <p>수정수정</p>
+                             <p>수정2수정2</p>
                         </div>
                     </div>
                 </div>
