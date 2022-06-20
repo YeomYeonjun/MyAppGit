@@ -10,6 +10,7 @@
                         <div class="site-heading">
                             <h1>Yeom YJ keekee</h1>
                             <span class="subheading">Second Project</span>
+                            <p>수정수정</p>
                         </div>
                     </div>
                 </div>
